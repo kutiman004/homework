@@ -1,0 +1,6 @@
+body{background-color: rgb(8, 8, 8);}
+p{text-align: center;color: rgb(231, 199, 13); border: 3px solid slategrey; font-size: 25px;}
+h1{text-align: center; color: rgb(221, 6, 6); font-size: 35px; }
+title{color: aliceblue; font-size: 7px;}
+pre{font-size: 17px; color: rgb(233, 218, 10); border: 2px solid slategrey;}
+a{color: rgb(221, 15, 228);}
