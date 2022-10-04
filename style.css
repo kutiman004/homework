@@ -1,6 +1,38 @@
 body{background-color: rgb(8, 8, 8);}
-p{text-align: center;color: rgb(231, 199, 13); border: 3px solid slategrey; font-size: 25px;}
-h1{text-align: center; color: rgb(221, 6, 6); font-size: 35px; }
-title{color: aliceblue; font-size: 7px;}
-pre{font-size: 17px; color: rgb(233, 218, 10); border: 2px solid slategrey;}
-a{color: rgb(221, 15, 228);}
+.title{
+background-color: rgb(238, 197, 14);
+ text-align: center;
+ color: brown;
+ font-size: 3pc;
+ box-shadow: 1px 7px 10px #fff;
+ width: 200px;
+ margin: 70px auto;
+ padding: 20px;
+ border-radius: 20px;
+}
+h1 {text-align: center; color: rgb(221, 6, 6);font-size: 35px; border: 2px solid white  ;}
+title{color: rgb(235, 193, 8); font-size: 7px;}
+pre{font-size: 17px; color: rgb(3, 3, 3); border: 2px solid slategrey;}
+ins{
+background-color: rgb(15, 15, 14);}
+.Vyshka{
+   background-color: rgb(228, 210, 209);
+   box-shadow: 0 4px 25px;
+}
+.block{
+   text-align: center;
+   background-color: rgb(235, 231, 10);
+   box-shadow: 0 5px 10px #ccc;
+   border-radius: 10% ;
+   width:  400px;
+   margin: 36px auto;
+   padding: 10px;
+}
+.shpion{
+   background-color: rgb(228, 210, 209);
+   box-shadow: 0 4px 25px;
+}
+p{
+   font-size: 2pc;
+   color: brown;
+}
