@@ -1,0 +1,51 @@
+body{
+    width: 1350px;
+    background: black url(../html/140028261.jpg) no-repeat ;
+
+}
+
+
+
+
+h1{
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.nav{
+    text-transform: uppercase;
+    text-decoration: none;
+    display: flex;
+    list-style-type: none;
+    margin-left: 70px;
+
+}
+.cont{
+    display: flex;
+
+}
+ .cont a:hover{
+    color: rgb(0, 255, 255);
+   
+    
+   
+}
+a{
+    text-decoration: none;
+}
+.con pre{
+    text-transform: uppercase;
+    text-decoration: none;
+    color: rgb(14, 236, 218);
+    font-size: 20px;
+    float: right;
+    display: flex;
+    box-shadow: 0 5px 10px;
+    margin-right:  50px;
+}
+.kut:hover{
+    color: rgb(0, 183, 255);
+
+}
+    
